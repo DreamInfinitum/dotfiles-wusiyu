@@ -1,11 +1,11 @@
 Host gitlab
 	HostName gitlab.com
-	User wusiyu
+	User git
 	IdentityFile home/siyu/.ssh/id_rsa
 
 Host github
 	HostName github.com
-	User DreamInfinitum
+	User git
 	IdentityFile home/siyu/.ssh/id_rsa
 
 Host caen
