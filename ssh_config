@@ -1,0 +1,15 @@
+Host gitlab
+	HostName gitlab.com
+	User wusiyu
+	IdentityFile home/siyu/.ssh/id_rsa
+
+Host github
+	HostName github.com
+	User DreamInfinitum
+	IdentityFile home/siyu/.ssh/id_rsa
+
+Host caen
+	HostName login.engin.umich.edu
+	User wusiyu
+	Compression yes
+
